@@ -8,8 +8,8 @@
     "github_alias": "djheru",
     "github_repo_name": "aws-bootstrap-kit-examples",
     "github_repo_branch": "main",
-    "email": "pdamra@gmail.com",
-    "domain_name": "ganjalog.com",
+    "email": "philipdamra@gmail.com",
+    "domain_name": "damraventures.com",
     "force_email_verification": true,
     "pipeline_deployable_regions": [
       "us-east-1"
